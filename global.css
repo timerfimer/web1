@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-dr-sugiyama: "Dr Sugiyama";
+  --font-jejuhallasan: JejuHallasan;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-11xl-4: 30.4px;
+  --font-size-27xl-1: 46.1px;
+  --font-size-8xl-6: 27.6px;
+  --font-size-189xl: 208px;
+  --font-size-91xl-1: 110.1px;
+  --font-size-36xl-8: 55.8px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslateblue-100: #2b398d;
+  --color-yellow: #faff00;
+  --color-black: #000;
+  --color-orange: #ffa800;
+  --color-sandybrown: #eebf65;
+  --color-darkgray: #9a9a9a;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-11xl: 30px;
+}
